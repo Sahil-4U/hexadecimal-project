@@ -1,0 +1,9 @@
+.sidecolumn-component {
+  padding: 20px;
+  width: 400px;
+  height: 100vh;
+  background: yellow;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}

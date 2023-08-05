@@ -1,0 +1,21 @@
+.header-component {
+  padding: 0px 20px;
+  width: 100vw;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background-color: rgb(128, 168, 203);
+  color: white;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  box-shadow: 0px 4px black 0.2;
+  margin-bottom: 10px;
+}
+.data-headings {
+  display: flex;
+  justify-content: flex-end;
+  gap: 50px;
+}

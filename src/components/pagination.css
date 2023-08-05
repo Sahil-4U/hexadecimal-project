@@ -1,0 +1,10 @@
+.pagination-component {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  color: blue;
+  font-size: 22px;
+  font-weight: bolder;
+  gap: 15px;
+}
